@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergei\\source\\repos\\SFMLGraphics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C999431B-8C44-4DF7-9A44-C43542351998}|SFMLGraphics\\SFMLGraphics.vcxproj|C:\\Users\\Sergei\\source\\repos\\SFMLGraphics\\SFMLGraphics\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C999431B-8C44-4DF7-9A44-C43542351998}|SFMLGraphics\\SFMLGraphics.vcxproj|solutionrelative:SFMLGraphics\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergei\\source\\repos\\SFMLGraphics\\SFMLGraphics\\Source.cpp",
+              "RelativeDocumentMoniker": "SFMLGraphics\\Source.cpp",
+              "ToolTip": "C:\\Users\\Sergei\\source\\repos\\SFMLGraphics\\SFMLGraphics\\Source.cpp",
+              "RelativeToolTip": "SFMLGraphics\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2022-12-24T09:38:05.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
